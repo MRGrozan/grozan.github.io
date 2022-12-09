@@ -1,0 +1,16 @@
+body{
+    background: var(--tg-theme-bg-color) ;
+    color: var(--tg-theme-text-color);
+}
+
+
+.container {
+    width: 500px;
+    clear: both;
+
+}
+
+.container input {
+    width: 100%;
+    clear: both;
+}
